@@ -1,4 +1,4 @@
-# Bank Tail Risk Forecasting in Emerging Markets
+# Bank Equity Tail Risk Forecasting in Emerging Markets
 
 **Replication code for:**  
 Huillca, J. & Yi, L. (2026). *Forecasting Bank Equity Tail Risk in Emerging Markets: A Forward-Looking Structural Framework.* Master's Thesis, Barcelona School of Economics.
