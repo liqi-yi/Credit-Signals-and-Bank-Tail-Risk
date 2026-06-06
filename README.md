@@ -1,7 +1,7 @@
-# Bank Equity Tail Risk Forecasting in Emerging Markets
+# Bank Tail Risk Forecasting in Emerging Markets
 
 **Replication code for:**  
-Huillca, J. & Yi, L. (2026). *Forecasting Bank Equity Tail Risk in Emerging Markets: A Forward-Looking Structural Framework.* Master's Thesis, Barcelona School of Economics.
+Huillca, J. & Yi, L. (2026). *Forecasting Bank Credit Tail Risk in Emerging Markets: A Forward-Looking Structural Framework.* Master's Thesis, Barcelona School of Economics.
 
 🔗 Repository: https://github.com/liqi-yi/Credit-Signals-and-Bank-Tail-Risk
 
@@ -43,7 +43,7 @@ jupyter notebook 03_TailRisk_HorseRace.ipynb
 
 ### Option B — Full pipeline from raw data
 
-Notebook 01 requires raw Bloomberg terminal data (bond YTMs, equity prices, market indices) which are **not included** due to data licensing restrictions. These were sourced from Bloomberg Professional and Peru's SBS regulatory database. If you have access, place the raw files in a `DATA/` folder following the filenames referenced in `01_CETI_Pipeline.ipynb`, then run all three notebooks in order.
+Notebook 01 requires raw Economatica data (bond YTMs, equity prices, market indices) which are **not included** due to data licensing restrictions. These were sourced from Economatica and Peru's SBS regulatory database. If you have access, place the raw files in a `DATA/` folder following the filenames referenced in `01_CETI_Pipeline.ipynb`, then run all three notebooks in order.
 
 ---
 
